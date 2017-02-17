@@ -1,2 +1,0 @@
-# ShellPractise
-Test file
